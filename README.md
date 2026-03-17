@@ -1,8 +1,7 @@
 # Tugas_2
 
-Name: Rahman Azkarafi Prasetya
-Nrp: 5025231044
-
+- **Nama**: Rahman Azkarafi Prasetya  
+- **NRP**: 5025231044
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -29,7 +28,7 @@ Gambar diatas mnnunjukkan hierarki widget pada aplikasi Flutter.
    - Setiap menu menggunakan `Column` yang terdiri dari `Icon` dan `Text`
 4. `Container` berisi teks counter dan tombol untuk menambah nilai
 
-### Inti
+### core
 - `Column` digunakan untuk susunan vertikal
 - `Row` digunakan untuk susunan horizontal
 - `Container` digunakan sebagai pembungkus untuk pengaturan tampilan
